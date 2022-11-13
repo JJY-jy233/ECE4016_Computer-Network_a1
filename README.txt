@@ -14,4 +14,4 @@ How to send query to this simulated DNS server:
 	1. use "cmd" or "powershell" commend to enter the command line interface or shell interface
 	2. use "dig <website> @127.0.0.1 -p1234" to send query to DNS server, replace <website> with any website you want eg."www.baidu.com"
 
-Note: The query type can only be IN and CNAME and NS other type like MX will lead program clapse
+Note: The query type can only be IN and CNAME and NS other type like MX will lead program collapse
