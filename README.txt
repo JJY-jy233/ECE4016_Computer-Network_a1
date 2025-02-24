@@ -2,8 +2,8 @@ README：
 	2 versions for simulating DNS server
 	probably 1.1 will be more efficient
 
-	To execute the program, use "python DNS1.1.py", then it will ask you to enter a fiag to determine which method will the program use
-if the fiag is 0:
+	To execute the program, use "python DNS1.1.py", then it will ask you to enter a flag to determine which method will the program use
+if the flag is 0:
 	it will ask the public server and get the answer.
 When flag is 1:
 	it will do iterative query by asking the root, then based on the answer
